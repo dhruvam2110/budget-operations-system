@@ -6,7 +6,7 @@ A web-based Budget Operations System software that helps users manage their annu
 
 ## 🚀 Features
 
-- Add budget details for each year.
+- Add budget estimation details for each year.
 - Record and update expenditures.
 - Track sponsor earnings year-wise.
 - View financial data in interactive graphs.

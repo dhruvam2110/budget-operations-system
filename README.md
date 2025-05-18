@@ -19,10 +19,9 @@ Budget Operations System is a web-based application designed to help users effic
   - Interactive graphs to display budgets, expenditures, and sponsor earnings over time
 
 ## Technologies Used
-- Backend: Laravel (or your backend framework)
-- Frontend: Bootstrap, AJAX, jQuery (or your frontend tools)
+- Backend: Laravel 
+- Frontend: Bootstrap, AJAX, jQuery 
 - Database: MySQL
-- Others: (Mention any other tools, libraries, or APIs)
 
 ## Installation
 1. Clone the repository:

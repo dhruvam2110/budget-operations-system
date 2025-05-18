@@ -47,10 +47,10 @@ Budget Operations System is a web-based application designed to help users effic
 
 ## Usage
 
-Register a new user or login with existing credentials.
+- Register a new user or login with existing credentials.
 
-Add budget details and expenditures for each year.
+- Add budget details and expenditures for each year.
 
-View sponsor earnings and financial data through graphs.
+- View sponsor earnings and financial data through graphs.
 
-Edit your profile information anytime.
+- Edit your profile information anytime.

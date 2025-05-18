@@ -29,17 +29,20 @@ Budget Operations System is a web-based application designed to help users effic
    git clone https://github.com/dhruvam2110/budget-operations-system.git
    
 2. Install Dependencies
+   ```bash
    composer install
    npm install
    
 3. Setup the environment variables
-   Copy .env.example to .env
-   Configure database credentials and other settings in .env 
+   - Copy .env.example to .env
+   - Configure database credentials and other settings in .env 
 
 4. Run migrations and seeders:
+   ```bash
    php artisan migrate --seed
 
 5. Start the development server:
+   ```bash
    php artisan serve
 
 ## Usage
